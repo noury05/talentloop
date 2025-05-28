@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1070505142813",
+    "firebase_url": "https://skillexchange-77b7d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "skillexchange-77b7d",
+    "storage_bucket": "skillexchange-77b7d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070505142813:android:5028b28e190e3a05a8b4f4",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCoGUK32CGqBOtq5bFgcrDR3Ypkf54lNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070505142813:android:b44c900160cf691ca8b4f4",
+        "android_client_info": {
+          "package_name": "com.example.talentloop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCoGUK32CGqBOtq5bFgcrDR3Ypkf54lNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
