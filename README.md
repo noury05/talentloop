@@ -6,15 +6,44 @@ TalentLoop is a mobile and web application that helps people learn and share ski
 ## Features
 ✅ Create and manage your profile ✅ Add skills and interests ✅ Match with others based on shared skills ✅ Chat and video call to share knowledge ✅ Post and browse skill-exchange requests ✅ Admin dashboard to manage and moderate content ✅ Notifications to keep you updated ✅ Secure user authentication with Firebase
 
+## Tech Stack
+Frontend: Flutter (Mobile) / React.js (Web)
 
+Backend: Laravel
 
-This project is a starting point for a Flutter application.
+Database: Firebase
 
-A few resources to get you started if this is your first Flutter project:
+Styling: Tailwind CSS
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How It Works
+Sign up and create your profile.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add your skills and interests.
+
+Get matched with others who share your passions.
+
+Chat, connect, and exchange skills for free!
+
+Admins manage content with a smart dashboard.
+
+## Performance Highlights
+Fast login and smooth page loading
+
+Real-time chat and notifications
+
+Supports 1000+ concurrent users
+
+Minimal resource usage for better user experience
+
+Smooth video calling with no lag
+
+## Future Features
+AI-enhanced admin dashboard
+
+Skill validation for credibility
+
+More interactive features to help users find their perfect match
+
+## Demo
+Check out screenshots and videos in the screenshots/ folder to see TalentLoop in action!
+
