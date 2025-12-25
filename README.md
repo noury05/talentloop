@@ -1,6 +1,7 @@
 # talentloop
 
-A new Flutter project.
+A Skill Exchange Platform
+TalentLoop is a mobile and web application that helps people learn and share skills. Users can connect, chat, and exchange skills in a safe and friendly environment.
 
 ## Getting Started
 
