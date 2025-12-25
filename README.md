@@ -1,9 +1,13 @@
-# talentloop
+# TalentLoop
 
 A Skill Exchange Platform
 TalentLoop is a mobile and web application that helps people learn and share skills. Users can connect, chat, and exchange skills in a safe and friendly environment.
 
-## Getting Started
+## Features<img width="137" height="35" alt="image" src="https://github.com/user-attachments/assets/6cc2473f-a378-42f4-ad7d-5d6b7c655442" />
+✅ Create and manage your profile ✅ Add skills and interests ✅ Match with others based on shared skills ✅ Chat and video call to share knowledge ✅ Post and browse skill-exchange requests ✅ Admin dashboard to manage and moderate content ✅ Notifications to keep you updated ✅ Secure user authentication with Firebase
+<img width="2344" height="35" alt="image" src="https://github.com/user-attachments/assets/05295aa1-30ce-419b-b8a3-56f25b2b152b" />
+
+
 
 This project is a starting point for a Flutter application.
 
